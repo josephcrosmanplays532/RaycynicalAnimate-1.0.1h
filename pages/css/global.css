@@ -22,7 +22,7 @@ header
 **/
 header {
 	/* style */
-	background: linear-gradient(90deg, rgba(0,181,255,1) 0%, rgba(255,0,155,1) 100%);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(29,29,236,1) 35%, rgba(6,46,54,1) 100%);, rgba(0,181,255,1) 0%, rgba(255,0,155,1) 100%);
 	color: #fff;
 	text-align: center;
 	/* layout */
